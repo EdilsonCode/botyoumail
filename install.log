@@ -1,0 +1,60 @@
+2024-07-25 20:52:56.094 INFO  Initializing BotCity Wizard
+2024-07-25 20:52:56.104 INFO  Initializing...
+2024-07-25 20:53:47.403 INFO  Set install location to C:\Users\edils\Documents\BotCity
+2024-07-25 20:54:09.306 INFO  Checking for SSL support
+2024-07-25 20:54:10.418 INFO  SSL is supported.
+2024-07-25 20:54:10.418 INFO  Authenticating with BotCity Orchestrator
+2024-07-25 20:54:12.350 INFO  Installing latest version
+2024-07-25 20:54:12.790 INFO  Waiting for download to finish.
+2024-07-25 20:54:28.422 INFO  Download finished.
+2024-07-25 20:54:28.422 INFO  Writing configuration file
+2024-07-25 20:54:28.422 INFO  Writing conf.bcf file
+2024-07-25 20:54:28.422 INFO  Fetching organization information.
+2024-07-25 20:54:28.851 INFO  Writing cookie files
+2024-07-25 20:54:28.861 INFO  Writing Studio and CLI login cookie files
+2024-07-25 20:54:28.877 INFO  Writing setup file
+2024-07-25 20:54:28.877 INFO  Copying Wizard to SDK folder
+2024-07-25 20:54:28.877 INFO  Copying wizard to SDK folder.
+2024-07-25 20:54:28.893 INFO  Copying install.log to SDK folder.
+2024-07-25 20:54:28.908 INFO  Copying Diagnostic tool to SDK folder.
+2024-07-25 20:54:28.908 INFO  BotCity Studio SDK installed successfully.
+2024-07-25 20:54:28.908 INFO  BotCity Studio SDK installed successfully.
+2024-07-25 20:54:28.908 INFO  Download and installation concluded.
+2024-07-25 20:54:28.908 INFO  Installation completed. All Done!
+2024-07-25 20:54:37.401 INFO  Opening launcher page.
+2024-07-25 20:55:45.475 INFO  Checking for SSL support
+2024-07-25 20:55:45.664 INFO  SSL is supported.
+2024-07-25 20:55:45.664 INFO  Authenticating with BotCity Orchestrator
+2024-07-25 20:55:46.496 INFO  Writing Studio and CLI login cookie files
+2024-07-25 20:55:46.575 INFO  Fetching the list of available Runners
+2024-07-25 20:55:46.779 INFO  No Runners available to select. Must create one.
+2024-07-25 20:56:09.847 INFO  Creating a new Runner: BotCity
+2024-07-25 20:56:10.078 ERROR Failed to create runner.
+2024-07-25 20:56:10.078 INFO  Runner 'BotCity' created.
+2024-07-25 20:56:10.090 INFO  Writing conf.bcf file
+2024-07-25 20:56:10.097 INFO  Fetching organization information.
+2024-07-25 20:56:50.424 INFO  Launching BotCity Runner - GUI Mode
+2024-07-25 20:57:22.230 INFO  Launching BotCity Studio
+2024-07-25 20:58:28.962 INFO  Initializing BotCity Wizard
+2024-07-25 20:58:28.962 INFO  Initializing...
+2024-07-25 21:06:10.165 INFO  Launching BotCity Studio
+2024-07-26 21:47:21.680 INFO  Initializing BotCity Wizard
+2024-07-26 21:47:21.680 INFO  Initializing...
+2024-07-27 09:08:22.987 INFO  Initializing BotCity Wizard
+2024-07-27 09:08:22.987 INFO  Initializing...
+2024-07-27 09:09:52.728 INFO  Set install location to C:\Users\edils\PycharmProjects\PythonBotCity\botyoutube
+2024-07-27 09:10:34.123 INFO  Checking for SSL support
+2024-07-27 09:10:35.717 INFO  SSL is supported.
+2024-07-27 09:10:35.717 INFO  Authenticating with BotCity Orchestrator
+2024-07-27 09:10:37.592 INFO  Installing latest version
+2024-07-27 09:10:37.935 INFO  Waiting for download to finish.
+2024-07-27 09:10:56.360 INFO  Download finished.
+2024-07-27 09:10:56.360 INFO  Writing configuration file
+2024-07-27 09:10:56.360 INFO  Writing conf.bcf file
+2024-07-27 09:10:56.360 INFO  Fetching organization information.
+2024-07-27 09:10:56.548 INFO  Writing cookie files
+2024-07-27 09:10:56.548 INFO  Writing Studio and CLI login cookie files
+2024-07-27 09:10:56.563 INFO  Writing setup file
+2024-07-27 09:10:56.563 INFO  Copying Wizard to SDK folder
+2024-07-27 09:10:56.563 INFO  Copying wizard to SDK folder.
+2024-07-27 09:10:56.579 INFO  Copying install.log to SDK folder.

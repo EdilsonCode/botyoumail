@@ -1,0 +1,26 @@
+# Ignore os arquivos de sistema do Mac
+.DS_store
+
+# Ignore as pastas
+win32
+
+# Ignore arquivos
+wizard-2.1.0.exe
+MANIFEST.in
+requirements.txt
+.cookieCli
+.workspaceCli
+diagnostic-1.2.0.jar
+BotStudio.exe
+BotCLI.bat
+BotRunner-gui.bat
+BotRunnerBackgroundWrapper.bat
+botyoumail.egg-info/SOURCES.txt
+botyoumail.egg-info/dependency_links.txt
+botyoumail.egg-info/requires.txt
+botyoumail.egg-info/top_level.txt
+botyoumail/bot.py
+conf/conf_example.bcf
+conf/properties.json
+setup.json
+BotRunner.bat

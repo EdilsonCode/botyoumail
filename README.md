@@ -1,5 +1,7 @@
 # Automação com BotCity
 
+<div style="text-align: justify;">
+
 A BotCity é um software de automação RPA high-code com foco em automações em Python RPA. Se destaca pela sua flexibilidade já que permite a personalização ilimitada das automações de acordo com as necessidades da empresa.
 
 ### Benefícios de usar Python RPA em suas automações:
@@ -11,6 +13,7 @@ A BotCity é um software de automação RPA high-code com foco em automações e
 
 **Escalabilidade e desempenho:**
 
+
 - O RPA em Python é mais escalável do que as plataformas de low-code porque oferece suporte à integração com outras ferramentas e tecnologias e tem um desempenho mais rápido (3x-20x). Você pode criar automações complexas (Web, desktop, legado, Android) em qualquer sistema (Win/Linux/Mac), lidar com grandes volumes de dados e usar computação elástica (VMs, contêineres, sem servidor) que é dimensionada conforme a capacidade necessária.
 
 **Flexibilidade:**
@@ -20,6 +23,8 @@ A BotCity é um software de automação RPA high-code com foco em automações e
 **Custo:**
 
 - No modelo de licenciamento das plataformas low-code, você pode aumentar rapidamente os custos à medida que dimensiona seus esforços de automação, além do desafio de gerenciar as licenças para que não haja tempo de inatividade e um ROI mais atraente nos projetos. Com o Python RPA, não há taxas de licença nem restrições de uso: é código puro, o que possibilita a criação e a implementação de suas automações sem incorrer em custos adicionais, permitindo mais projetos com um ROI atraente.
+
+</div>
 
 # Sobre o projeto Botyoumail 
 
@@ -183,4 +188,7 @@ Pronto, ao fazer tudo isso, o código do projeto na IDE PyCharm também será at
 
 Para mais informações acesse a documentação do [BotCity](https://documentation.botcity.dev/tutorials/python-automations/desktop/).
 
-## Contato
+## CONTATO
+
+- **LinkedIn:** [Edilson Freire](https://www.linkedin.com/in/edilson-freire-37a06ab1/)
+- **Email:** analistadesistemasedilson@gmail.com
